@@ -9,5 +9,5 @@ This is a demo repo to teach people how to use Git and Githun collaboratively.
 # Project Objectives
 Build simple guides on how to use Git and Github
 
-# Resources
-Data not available.
+# Pycharm Title
+This is an update to Pycharm to test new knowledge.
