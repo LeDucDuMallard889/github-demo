@@ -2,7 +2,12 @@
 This is a demonstration of how to use and work with Git.
 
 This is a new line of text.
+
 # About the project
-**Some description inserted here**
+This is a demo repo to teach people how to use Git and Githun collaboratively.
 
 # Project Objectives
+Build simple guides on how to use Git and Github
+
+# Resources
+Data not available.
